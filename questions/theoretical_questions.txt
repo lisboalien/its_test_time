@@ -1,0 +1,128 @@
+1. Statement Coverage will not check for the following:
+a) Missing Statements X
+b) Unused Branches
+c) Dead Code
+d) Unused Statement
+
+2. Before launching a software which testing is to be done in-house?
+a) Beta
+b) Gamma
+c) Alpha  X 
+d) None of the above
+
+3. Unreachable code would best be found using:
+a) code reviews X
+b) code inspections
+c) a coverage tool
+d) a static analysis tool
+
+4. Which of the following is NOT a static testing technique?
+a) Error guessing X
+b) Walkthrough
+c) Data flow analysis
+d) Inspections
+
+5. Which of the following is NOT a black box technique?
+a) Equivalence partitioning
+b) State transition testing
+c) Linear code sequence and jump X
+d) Syntax testing
+e) Boundary value analysis
+
+6. Verification is:
+a) Checking that we are building the right system
+b) Checking that we are building the system right X
+c) Performed by an independent test team
+d) Making sure that it is what the user really wants
+
+7. Which is NOT true - The black box tester:
+a) should be able to understand a functional specification or requirements document
+b) should be able to understand the source code X
+c) is highly motivated to find faults
+d) is creative to find the system's weaknesses
+
+8. Equivalence partitioning is:
+a) A black box testing technique used only by developers
+b) A black box testing technique than can only be used during system testing
+c) A black box testing technique appropriate to all levels of testing X
+d) A white box testing technique appropriate for component testing
+
+9. Which of the following is a major task of test planning?
+a) Determining the test approach X
+b) Preparing test specification
+c) Evaluating exit criteria and reporting
+d) Measuring and analyzing results
+
+10. In which activity of the Fundamental Test Process is the test environment set up?
+a) Test implementation and execution X
+b) Test planning and control
+c) Test analysis and design
+d) Evaluating exit criteria and reporting
+
+11. The difference between re-testing and regression testing is:
+a) re-testing is running a test again; regression testing looks for unexpected side effects X
+b) re-testing looks for unexpected side effects; regression testing is repeating those tests
+c) re-testing is done after faults are fixed; regression testing is done earlier
+d) re-testing uses different environments, regression testing uses the same environment
+e) re-testing is done by developers, regression testing is done by independent testers
+
+12. Determine the statement which holds true in case of Exploratory Testing:
+a) It starts the execution only when the design gets finalized
+b) It involves simultaneous design of the test and execution X
+c) It starts the execution only when the design gets renewed
+d) It starts the execution only when the design gets amended
+
+13. Impact Analysis helps to decide:
+a) Different Tools to perform Regression Testing
+b) Exit Criteria
+c) How many more test cases need to written
+d) How much regression testing should be done X
+
+14. What is the purpose of test completion criteria in a test plan?
+a) to know when a specific test has finished its execution
+b) to ensure that the test case specification is complete
+c) to set the criteria used in generating test inputs
+d) to know when test planning is complete
+e) to plan when to stop testing X
+
+15. Beta testing is:
+a) Performed by customers at their own site X
+b) Performed by customers at their software developer’s site
+c) Performed by an independent test team
+d) Useful to test bespoke software
+e) Performed as early as possible in the lifecycle
+
+16. Which testing phase tests individual software modules combined together as a group?
+a) Module testing
+b) Integration testing X
+c) White Box testing
+d) Software testing
+
+17. The main focus of acceptance testing is:
+a) finding faults in the system
+b) ensuring that the system is acceptable to all users
+c) testing the system with other systems
+d) testing for a business perspective X
+e) testing by an independent test team
+
+18. Which of the following is not part of performance testing?
+a) Measuring response time
+b) Measuring transaction rates
+c) Recovery testing X
+d) Simulating many users
+e) Generating many transactions
+
+19. A test harness is a:
+a) A high level document describing the principles, approach and major objectives of the organization regarding testing
+b) A distance set of test activities collected into a manageable phase of a project
+c) A test environment comprised of stubs and drives needed to conduct a test X
+d) A set of several test cases for a component or system under test
+
+20. Which of the following would be a valid measure of test progress?
+a) Number of undetected defects
+b) Number of test cases not yet executed X
+c) Total number of defects in the product
+d) Effort required to fix all defects
+Once you are finished, click the button below. Any items you have not completed will be marked incorrect.
+Get Results
+
